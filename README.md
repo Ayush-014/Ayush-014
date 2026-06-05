@@ -9,29 +9,29 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-014&theme=react" height="160" />
+  <img src="https://streak-stats.demolab.com?user=imayuss&theme=react" height="160" />
 </p>
 
 <div  align="center" >
-  <a href="https://github.com/Ayush-014">
+  <a href="https://github.com/imayuss">
   <!-- 
-    <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=Ayush-014&show_icons=true&theme=radical"/>
-    <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-014&layout=compact&langs_count=7&theme=radical"/>
+    <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=imayuss&show_icons=true&theme=radical"/>
+    <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayuss&layout=compact&langs_count=7&theme=radical"/>
     -->
 </div>
     
 ---
   
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-014&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imayuss&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-014/Ayush-014/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-014/Ayush-014/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush-014/Ayush-014/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imayuss/imayuss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imayuss/imayuss/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imayuss/imayuss/output/github-contribution-grid-snake-dark.svg">
   
 </picture>
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://ayush014.vercel.app/">
+<a href="https://imayush.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
